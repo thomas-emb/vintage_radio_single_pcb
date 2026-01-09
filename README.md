@@ -17,7 +17,7 @@ The project includes schematics, PCB layout, and manufacturing outputs.
 
 - EDA Software: KiCad 8.0
 - Board Type: **Single** layer whatever-suits-your-needs-material
-- Dimensions: 5&times;7cm
+- Dimensions: 4.85&times;7cm
 
 ---
 
@@ -29,7 +29,8 @@ The project includes schematics, PCB layout, and manufacturing outputs.
     ├── VintageRadio.kicad_pcb  # KiCad PCB layout
     ├── VintageRadio.kicad_pro  # KiCad project
     ├── VintageRadio.kicad_sch  # KiCad schematic
-    ├── LICENSE                 # License (CC0-1.0)
+    ├── CHANGELOG.txt
+    ├── LICENSE
     └── README.md
 
 ---
@@ -47,7 +48,7 @@ See the BOM in the [fabrication/]() folder for full details.
 
 ## 🏭 Fabrication Notes
 
-- Trace widths: 0.4mm (signal), 0.8mm (power)
+- Trace widths: 0.4mm
 - Drill sizes: 0.8mm (components), 1mm (headers), 2mm (mounting holes)
 - Assembly: Hand assembly, check the [YouTube](https://www.youtube.com/watch?v=w2aT9UKJ8m4) video as well.
 

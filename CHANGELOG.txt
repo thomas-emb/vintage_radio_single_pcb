@@ -1,0 +1,8 @@
+2026-01-09 version 0.1
+- Initial release
+
+2026-01-09 version 0.2
+- Cut off 1.5mm from the bottom edge
+- Moved DFPlayer to edge for ease of access
+- Replaced pins with socket for button
+- NOTE: all traces are 0.4mm, instead of 0.8mm for power
